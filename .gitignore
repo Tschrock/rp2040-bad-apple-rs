@@ -1,0 +1,4 @@
+/target
+/workspace/*
+!/workspace/*.js
+/assets
